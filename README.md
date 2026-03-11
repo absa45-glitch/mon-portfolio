@@ -19,3 +19,8 @@ Ce site est automatiquement déployé sur GitHub Pages à chaque push
 sur la branche main.
 ## Contact
 N’hésitez pas à me contacter pour toute question ou opportunité !
+## Voir le site en ligne
+
+[Visiter mon portfolio](## Voir le site en ligne
+
+[Visiter mon portfolio](https://votre-username.github.io/mon-portfolio/))
